@@ -95,8 +95,9 @@ Bom, texto grande, mas se você quiser realmente me impressionar, eu costumo ado
 13. Se usou Vite.js. Sério, Vite é sensacional! <3
 14. Dark Mode? Why not?
 15. Fez versão em inglês? Go on!
-16. O SEO tem as tags bem certinhas, inclusive com imagens para compartlihamento? Caramba
-17. PWA! UAU
+16. Se usou css clip-path na sessão **Nossa iniciativa**
+17. O SEO tem as tags bem certinhas, inclusive com imagens para compartlihamento? Caramba
+18. PWA! UAU
 
 Bem, aqui é só para quem quer motivação para estudar um pouco mais. 
  
