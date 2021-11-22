@@ -46,6 +46,9 @@ Sim. Pode ser em qualquer serviço git, como github, gitlab ou bitbucket. Só qu
 **10) Preciso ter branches além da master (main)?**
 Não é necessário. Mas se criar branches, avise no seu README.md.
 
+**11) Se eu quiser passar um orçamento de mentira, do tempo que eu iria fazer, e valores, posso?**
+Pode sim. Para quem quiser treinar mandar orçamento para freelances, me manda que eu avalio com muito prazer. 
+
 ## O que vamos avaliar?
 
 Para facilitar o seu trabalho, vamos listar o que vamos avaliar neste projeto, de coisas que consideramos necessárias e opcionais que irão agregar valor. Lembre-se, quanto mais coisas o projeto tiver, mais atento iremos avaliar o seu projeto. Temos descritores obrigatórios e descritores opcionais, se eles serão ou não atendidos pelo código:
