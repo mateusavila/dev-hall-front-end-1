@@ -3,6 +3,8 @@
   
 Nós, do servidor do discord Dev Hall, criamos este desafio para você testar suas habilidades como desenvolvedor Front End. Este é o nosso primeiro desafio, onde vamos pedir para vocês montarem o projeto Figma que geramos aqui:  [https://www.figma.com/file/oAzrbFOra5NuygvnsLZBcv/Desafio-Front-end?node-id=0%3A1](https://www.figma.com/file/oAzrbFOra5NuygvnsLZBcv/Desafio-Front-end?node-id=0%3A1)  
 
+**Lembrando que este desafio não é seleção. Mas se você for bem para caramba, vamos criar textão com o teu nome no linkedin. Por que não????**
+
 ## Briefing deste projeto (é de mentirinha, beleza!)
 O cliente, **que é um tremendo mão de vaca**, solicitou um website simples que mostra que você sabe fazer um site. Para tanto, pediu para ter algumas questões importantes:
 
