@@ -1,5 +1,7 @@
 
-# Dev Hall Challenge Front end - desafio 1  
+# Challenge Front end - desafio 1  
+
+## Vamos corrigir o desafio, mas não pertencemos mais ao canal do discord Dev Hall. Seremos uma iniciativa autônoma e independente.
   
 Nós, do servidor do discord Dev Hall, criamos este desafio para você testar suas habilidades como desenvolvedor Front End. Este é o nosso primeiro desafio, onde vamos pedir para vocês montarem o projeto Figma que geramos aqui:  [https://www.figma.com/file/oAzrbFOra5NuygvnsLZBcv/Desafio-Front-end?node-id=0%3A1](https://www.figma.com/file/oAzrbFOra5NuygvnsLZBcv/Desafio-Front-end?node-id=0%3A1)  
 
